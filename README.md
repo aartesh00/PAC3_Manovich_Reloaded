@@ -4,8 +4,6 @@
 
 **Data**: 14/12/2023
 
-[toc]
-
 ## Plantejament
 
 La hibridació de mitjans és la combinació o la fusió de diferents formes de mitjans o tecnologies en una nova entitat. Té la capacitat d'integrar elements distintius de múltiples mitjans en una sola plataforma o experiència, com Skype/Zoom o Duolingo, que fusionen tecnologia de comunicació amb vídeo, xat, IA i aprenentatge d'idiomes. Per tal de distingir-la d'altres conceptes com la multimèdia, s’ha de veure la hibridació com una integració més profunda i interactiva entre mitjans. Per un altre costat, la remediació se centra en la reinterpretació d'un mitjà a través d'un altre sense una fusió directa d'elements. En canvi, la hibridació, crea noves formes que transcendeixen els mitjans originals.
@@ -18,9 +16,7 @@ Skype o Zoom han estat pioneres per tal de redefinir la manera en què les perso
 
 >> “*Els usuaris han trobat la manera d'estar connectats en tot moment amb el món, sigui per comunicar-se amb amics o familiars, estar al dia de les últimes notícies i esdeveniments, comprar en línia o compartir els seus moments amb la resta del món*.” **(ISP Grup, 2023)**
 
-<img src="C:\Users\fsale\Desktop\Imagenes\videotrucada.jpg" alt="Videotrucada entre companys" style="zoom:55%;" />
-
-<center>Imatge de Freepik</center>
+![Videotrucada entre companys](https://github.com/aartesh00/PAC3_Manovich_Reloaded/blob/main/Imatges/videotrucada.jpg) 
 
 A més, aquestes plataformes de comunicació, representen un nou nivell d'interacció amb les interfícies digitals. Manovich se centra en com els mitjans digitals estan en constant evolució i en com ens afecta a la nostra cultura i experiència.
 
@@ -34,9 +30,7 @@ També es destaca la importància de les interfícies en la formació de la cult
 
 >> *“Zoom es va proposar millorar la qualitat de la comunicació amb una interfície neta i fàcil d'usar, una connexió estable fins i tot en velocitats d'internet més baixes i una capacitat més gran de participants en una sola trucada.”* **(Cane Allesta, 2023)**
 
-<img src="C:\Users\fsale\Desktop\Imagenes\videotrucada2.jpg" alt="Videotrucada entre companys" style="zoom:55%;" />
-
-<center>Imatge de Freepik</center>
+![Videotrucada entre companys](https://github.com/aartesh00/PAC3_Manovich_Reloaded/blob/main/Imatges/videotrucada2.jpg) 
 
 Per últim, l’adaptabilitat de Skype o Zoom també és una conseqüència de la seva hibridació amb altres plataformes o serveis. Aquests programes ofereixen integració amb xarxes socials, sistemes de gestió de projectes i altres eines, creant un ecosistema digital ampli que permet una experiència de comunicació més completa i eficient.
 
@@ -46,9 +40,7 @@ En resum, Skype o Zoom són més que simplement eines de comunicació, són agen
 
 Duolingo, és una plataforma que ha revolucionat l'aprenentatge d'idiomes mitjançant la seva integració innovadora de la tecnologia. Podem apreciar com representa els principals principis sobre la transformació dels mitjans digitals. Manovich argumenta sobre la importància de la interactivitat, la personalització i la gamificació en la cultura digital. Aquests elements són claus en la plataforma de Duolingo.
 
-<img src="C:\Users\fsale\Desktop\Imagenes\idiomes.jpg" alt="Idiomes a una tauleta" style="zoom:55%;" />
-
-<center>Imatge de Freepik</center>
+![Idiomes a una tauleta](https://github.com/aartesh00/PAC3_Manovich_Reloaded/blob/main/Imatges/idiomes.jpg) 
 
 La hibridació entre tecnologies d'aprenentatge i la interfície de l’aplicació, han traspassat les limitacions tradicionals de l'aprenentatge d'idiomes. A més, gràcies a la integració de la gamificació, mitjançant les recompenses, els nivells i punts, es motiva als usuaris a seguir aprenent. Aquesta integració de dinàmiques de joc fa que l'aprenentatge sigui divertit i motivador, alhora que s’utilitza com a retroalimentació immediata. Això reflecteix la idea de Manovich sobre com els mitjans digitals poden ser dissenyats per fomentar la participació activa i mantenir l'interès de l'usuari. 
 
